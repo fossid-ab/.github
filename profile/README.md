@@ -10,7 +10,7 @@ FossID SCA tools provide the most comprehensive scanning capabilities, flexible 
 
 ### Highlights
 
-- 🔍 **Complete Codebase Scanning:** Scan your entire codebase (not just declared dependencies) so you can detect all open source in whatever method it was introduced.
+- 🔍 **Complete Codebase Scanning:** Scan your entire codebase (not just declared dependencies) so you can detect all open source regardless of how it was introduced.
 - 🧩 **Code Snippet Detection:** Find the smallest blocks of open source so your team can confidently leverage AI-generated code with visibility into license or security risk.
 - ⚠️ **Vulnerable Snippet Finder:** Identify precise blocks of known vulnerable code so your team can remediate efficiently and leave no doubt about your security posture.
 - 📑 **SBOM Management:** Ingest supplier SBOMs, consolidate and export NTIA-compliant SBOMs so you can easily meet regulatory security requirements.
